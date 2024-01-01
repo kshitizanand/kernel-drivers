@@ -1,0 +1,1 @@
+cmd_/home/kshitiz/Desktop/Driver-Tutorial/kernel-drivers/01/modules.order := {   echo /home/kshitiz/Desktop/Driver-Tutorial/kernel-drivers/01/mymodule.ko; :; } > /home/kshitiz/Desktop/Driver-Tutorial/kernel-drivers/01/modules.order
